@@ -22,7 +22,7 @@ Namespace My.Resources
     '''<summary>
     '''  A strongly-typed resource class, for looking up localized strings, etc.
     '''</summary>
-    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0"),  _
+    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0"),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
      Global.Microsoft.VisualBasic.HideModuleNameAttribute()>  _
@@ -252,12 +252,12 @@ Namespace My.Resources
         
         '''<summary>
         '''  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;
-        '''&lt;iBMSC Major=&quot;2&quot; Minor=&quot;4&quot; Build=&quot;0&quot;&gt;
+        '''&lt;iBMSC Major=&quot;3&quot; Minor=&quot;1&quot; Build=&quot;0&quot;&gt;
         '''    &lt;Columns&gt;
         '''        &lt;Column Index=&quot;0&quot; Width=&quot;50&quot; Title=&quot;Measure&quot; NoteColor=&quot;0&quot; TextColor=&quot;-16711681&quot; LongNoteColor=&quot;0&quot; LongTextColor=&quot;-16711681&quot; BG=&quot;0&quot; /&gt;
-        '''        &lt;Column Index=&quot;1&quot; Width=&quot;60&quot; Title=&quot;BPM&quot; NoteColor=&quot;0&quot; TextColor=&quot;-65536&quot; LongNoteColor=&quot;0&quot; LongTextColor=&quot;-65536&quot; BG=&quot;0&quot; /&gt;
-        '''        &lt;Column Index=&quot;2&quot; Width=&quot;50&quot; Title=&quot;STOP&quot; NoteColor=&quot;0&quot; TextColor=&quot;-65536&quot; LongNoteColor=&quot;0&quot; LongTextColor=&quot;-65536&quot; BG=&quot;0&quot; /&gt;
-        '''     [rest of string was truncated]&quot;;.
+        '''        &lt;Column Index=&quot;1&quot; Width=&quot;60&quot; Title=&quot;SCROLL&quot; NoteColor=&quot;0&quot; TextColor=&quot;-65536&quot; LongNoteColor=&quot;0&quot; LongTextColor=&quot;-65536&quot; BG=&quot;0&quot; /&gt;
+        '''        &lt;Column Index=&quot;2&quot; Width=&quot;60&quot; Title=&quot;BPM&quot; NoteColor=&quot;0&quot; TextColor=&quot;-65536&quot; LongNoteColor=&quot;0&quot; LongTextColor=&quot;-65536&quot; BG=&quot;0&quot; /&gt;
+        '''   [rest of string was truncated]&quot;;.
         '''</summary>
         Friend ReadOnly Property O2Mania_Theme() As String
             Get
